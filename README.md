@@ -23,6 +23,6 @@
 wget -O oh-my-zsh-install.sh https://raw.githubusercontent.com/xtzPioneer/tools-install/main/oh-my-zsh-install.sh
 ```
 ```bash
-sudo bash oh-my-zsh-install.sh
+bash oh-my-zsh-install.sh
 ```
 
